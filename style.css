@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif
+}
+header{
+    margin: 70px;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    margin: 20px 0px;
+}
+h3{
+    font-size: 15px;
+}
+hr{
+    margin:10px 0px;
+}
+.box{
+    display: flex;
+    justify-content: space-evenly;
+}
+.vl {
+    border-left: 1px solid black;
+    height: 400px;
+  }
+  h5{
+    font-size: 25px;
+    font-weight: lighter;
+  }
+  .sec-tion{
+    margin: 30px 0px;
+  }
+  .cont{
+    display: flex;
+    margin:10px 10px;
+  }
+  .cont a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: blue;
+  }
+  .skills{
+    margin: 20px 0px;
+  }
+  span{
+    padding: 10px;
+  }
+  h6{
+    font-size: 15px;
+    font-weight: bold;
+    margin: 15px 0px;
+  }
+  p{
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
